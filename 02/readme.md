@@ -1,7 +1,7 @@
 Javascript 02 - Navigateurs
 ===
 
- * What to exept?
+ * What to expect?
  * Navigateurs
  * Moteurs d'exécution
  * Moteurs de rendu

@@ -1,7 +1,7 @@
 Javascript 01
 ===
 
- * What to exept?
+ * What to expect?
  * Introduction
    * Historique
    * Où ? Pourquoi ? Pour qui ?
